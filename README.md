@@ -1,4 +1,4 @@
-# MicroprofileRestAPIMongoDBHibernateOGMThorntail .    hayri@kodnito.com
+# Microprofile-RestAPI-MongoDB-HibernateOGM-Thorntail .    hayri@kodnito.com
 
 MicroProfile REST API with MongoDB, Hibernate OGM and Thorntail, Implementation from Hayri Cicek's blog, using eclipse. 
 
